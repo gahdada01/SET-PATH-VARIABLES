@@ -4,7 +4,7 @@
 SET PATH=%PATH%;"  Application Path  "
 ```
 
-### Example
+#### Example
 
 ```ruby
 SET PATH=%PATH%;"C:\Program Files\Sublime Text 3"
@@ -16,7 +16,7 @@ SET PATH=%PATH%;"C:\Program Files\Sublime Text 3"
 PATH=" Application Path "
 ```
 
-### Example
+#### Example
 
 ```ruby
  PATH="/c/Program Files/Sublime Text 3/"
