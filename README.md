@@ -1,4 +1,4 @@
-[syntax variables](https://ss64.com/nt/syntax-variables.html)
+# [Syntax Variables](https://ss64.com/nt/syntax-variables.html)
 
 ## Set path in Command Prompt
 
