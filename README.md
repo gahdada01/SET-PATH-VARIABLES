@@ -1,3 +1,5 @@
+[syntax variables](https://ss64.com/nt/syntax-variables.html)
+
 ## Set path in Command Prompt
 
 ```ruby
@@ -11,7 +13,6 @@ SET PATH=%PATH%;"C:\Program Files\Sublime Text 3"
  ```
 
 ## Set path in Bash
-
 ```ruby
 PATH=" Application Path "
 ```
